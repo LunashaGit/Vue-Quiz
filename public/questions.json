@@ -1,0 +1,60 @@
+{
+  "title": "Questionnaire sur les Films et Séries",
+  "minimum_score": 3,
+  "success_message": "Bravo, vous avez réussi",
+  "failure_message": "Malheureusement, vous avez raté",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quel est le pokémon préféré des personnes ?",
+      "choices": [
+        "Pikachu",
+        "Dracaufeu",
+        "Sacha"
+      ],
+      "correct_answer": "Pikachu"
+    },
+    {
+      "id": 2,
+      "question": "Qui est Naruto ?",
+      "choices": [
+        "Un chat",
+        "Un rat",
+        "Voldemort",
+        "Le jinchûriki du démon Kyûbi"
+      ],
+      "correct_answer": "Le jinchûriki du démon Kyûbi"
+    },
+    {
+      "id": 3,
+      "question": "Qui est Sasuke ?",
+      "choices": [
+        "Un serpent",
+        "Un terroriste",
+        "Harry potter",
+        "Dark Sasuke"
+      ],
+      "correct_answer": "Dark Sasuke"
+    },
+    {
+      "id": 4,
+      "question": "Qui est ton père ?",
+      "choices": [
+        "Dark vador",
+        "Le meilleur ami de ton père",
+        "Le facteur",
+        "Ton oncle"
+      ],
+      "correct_answer": "Le facteur"
+    },
+    {
+      "id": 5,
+      "question": "Veux-tu gagner un point bonus?",
+      "choices": [
+        "Oui",
+        "Non"
+      ],
+      "correct_answer": "Oui"
+    }
+  ]
+}
